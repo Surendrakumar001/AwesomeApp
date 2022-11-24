@@ -1,0 +1,102 @@
+
+/* Class = "UITextField"; placeholder = "Please enter last name"; ObjectID = "0hT-hz-i5I"; */
+"0hT-hz-i5I.placeholder" = "Please enter last name";
+
+/* Class = "UILabel"; text = "Mobile no"; ObjectID = "0pX-vj-myy"; */
+"0pX-vj-myy.text" = "Mobile no";
+
+/* Class = "UITextField"; placeholder = "Please enter mobile no"; ObjectID = "3C5-27-bNS"; */
+"3C5-27-bNS.placeholder" = "Please enter mobile no";
+
+/* Class = "UITextField"; placeholder = "Please enter user  name"; ObjectID = "3Tf-Gv-m1G"; */
+"3Tf-Gv-m1G.placeholder" = "Please enter user  name";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "5eB-vm-vAb"; */
+"5eB-vm-vAb.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5eB-vm-vAb"; */
+"5eB-vm-vAb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "68C-2G-Gaf"; */
+"68C-2G-Gaf.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "Please enter E-mail"; ObjectID = "9jT-ib-YrN"; */
+"9jT-ib-YrN.placeholder" = "Please enter E-mail";
+
+/* Class = "UILabel"; text = "Awesome App"; ObjectID = "Aq0-Jz-ETv"; */
+"Aq0-Jz-ETv.text" = "Awesome App";
+
+/* Class = "UIViewController"; title = "DashboardScreen"; ObjectID = "BBu-dF-Ufx"; */
+"BBu-dF-Ufx.title" = "DashboardScreen";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "CCc-cY-4gZ"; */
+"CCc-cY-4gZ.text" = "Password";
+
+/* Class = "UIViewController"; title = "LoginViewController"; ObjectID = "IBZ-uy-shN"; */
+"IBZ-uy-shN.title" = "LoginViewController";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "LEJ-ZA-56b"; */
+"LEJ-ZA-56b.text" = "User name";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "PuB-Ue-XtB"; */
+"PuB-Ue-XtB.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PuB-Ue-XtB"; */
+"PuB-Ue-XtB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "SnZ-dy-z1b"; */
+"SnZ-dy-z1b.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Welcome "; ObjectID = "YPI-fz-b50"; */
+"YPI-fz-b50.text" = "Welcome ";
+
+/* Class = "UIViewController"; title = "ContactusScreen"; ObjectID = "aaz-4z-YLy"; */
+"aaz-4z-YLy.title" = "ContactusScreen";
+
+/* Class = "UILabel"; text = "Awesome App"; ObjectID = "cYe-yc-iaE"; */
+"cYe-yc-iaE.text" = "Awesome App";
+
+/* Class = "UIButton"; configuration.title = "Home"; ObjectID = "eFj-F7-Z5o"; */
+"eFj-F7-Z5o.configuration.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eFj-F7-Z5o"; */
+"eFj-F7-Z5o.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "fTs-9c-tV4"; */
+"fTs-9c-tV4.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fTs-9c-tV4"; */
+"fTs-9c-tV4.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Please enter password"; ObjectID = "gNc-y5-tfJ"; */
+"gNc-y5-tfJ.placeholder" = "Please enter password";
+
+/* Class = "UIViewController"; title = "RegisterScreen"; ObjectID = "kXt-Tu-cIR"; */
+"kXt-Tu-cIR.title" = "RegisterScreen";
+
+/* Class = "UITextField"; placeholder = "Please enter last name"; ObjectID = "lg7-tM-Fb3"; */
+"lg7-tM-Fb3.placeholder" = "Please enter last name";
+
+/* Class = "UITextField"; placeholder = "Please enter first  name"; ObjectID = "nBz-G3-2lK"; */
+"nBz-G3-2lK.placeholder" = "Please enter first  name";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "ot6-my-akW"; */
+"ot6-my-akW.text" = "First name";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "thx-Sv-SdK"; */
+"thx-Sv-SdK.text" = "Last name";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "xMz-E8-eWy"; */
+"xMz-E8-eWy.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xMz-E8-eWy"; */
+"xMz-E8-eWy.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Contactus"; ObjectID = "ybe-7f-Z5z"; */
+"ybe-7f-Z5z.configuration.title" = "Contactus";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ybe-7f-Z5z"; */
+"ybe-7f-Z5z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Awesome App"; ObjectID = "z6f-80-E8j"; */
+"z6f-80-E8j.text" = "Awesome App";
